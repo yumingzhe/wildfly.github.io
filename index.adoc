@@ -3,7 +3,61 @@
 == Releases
 
 |===
+|WildFly Release | Jakarta EE Version
+
+|link:30[30.0.0.Final]
+|https://jakarta.ee/specifications/platform/10/apidocs/[Jakarta EE 10]
+
+
+|===
+
+|===
+|Bootable JAR
+
+|link:bootablejar[10.0.0.Final]
+
+|===
+
+|===
+|Galleon
+
+|link:galleon[5.2.0.Final]
+
+|===
+
+|===
+|WildFly Galleon Plug-ins
+
+|link:galleon-plugins[6.3.2.Final]
+
+|===
+
+|===
+|WildFly Maven Plugin
+
+|link:wildfly-maven-plugin[wildfly-maven-plugin]
+
+|===
+
+[[wildfly-on-kubernetes]]
+== Build and Deploy WildFly on Kubernetes & OpenShift
+
+|===
+|Tools to build and deploy WildFly on Kubernetes & OpenShift
+
+|link:wildfly-charts[Helm Chart for WildFly]
+|link:wildfly-operator[Kubernetes Operator for WildFly]
+|link:wildfly-s2i[WildFly S2I (Source to Image) builder and runtime images]
+
+|===
+
+== WildFly Previous Releases
+
+|===
 |WildFly Release | Jakarta EE Version | Java EE Version
+
+|link:29[29.0.0.Final]
+|https://jakarta.ee/specifications/platform/10/apidocs/[Jakarta EE 10]
 
 |link:28[28.0.0.Final]
 |https://jakarta.ee/specifications/platform/10/apidocs/[Jakarta EE 10]
@@ -84,33 +138,5 @@
 |link:12[12.0.0.Final]
 |
 |https://docs.oracle.com/javaee/7/api/toc.htm[Java EE 7 (and partial EE8 Preview)]
-
-|===
-
-|===
-|Bootable JAR
-
-|link:bootablejar[8.1.0.Final]
-
-|===
-
-|===
-|Galleon
-
-|link:galleon[5.0.8.Final]
-
-|===
-
-|===
-|WildFly Galleon Plug-ins
-
-|link:galleon-plugins[6.3.2.Final]
-
-|===
-
-|===
-|WildFly Maven Plugin
-
-|link:wildfly-maven-plugin[wildfly-maven-plugin]
 
 |===
